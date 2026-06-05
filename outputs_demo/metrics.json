@@ -1,0 +1,10 @@
+{
+  "n_levels": 7,
+  "n_nodes": 33,
+  "peak_wetting_front_level": 4.0,
+  "peak_activated_nodes": 2,
+  "time_of_peak_activation_h": 14.0,
+  "max_exceedance_ratio": 3.9999999999975895,
+  "mean_exceedance_ratio": 0.2163342242201463,
+  "level_6_attenuation": 0.003953892302912861
+}
