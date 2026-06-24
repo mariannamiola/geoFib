@@ -1,4 +1,4 @@
-# geoFib Code Documentation and User Manual
+# Code Documentation and User Manual
 
 **Repository:** `geoFib`  
 **Manuscript:** *A Fibonacci-Like Propagation Graph for Infiltration and Internal Erosion in Heterogeneous Layered Soils*  
