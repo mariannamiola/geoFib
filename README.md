@@ -1,4 +1,4 @@
-# Fibonacci ROM synthetic demo
+# geoFib - Fibonacci ROM synthetic demo
 
 This repository contains a Python implementation of the
 interface-aware reservoir Fibonacci reduced-order model (ROM) described in the
