@@ -80,7 +80,7 @@ If you use geoFib code, please cite the following reference.
   author  = {Cammarasana, Simone and Miola, Marianna},
   title   = {A Fibonacci-Like Propagation Graph for Infiltration and Internal Erosion in Heterogeneous Layered Soils},
   year    = {2026},
-  doi     = {10.31223/X5T77X},
+  doi     = {https://doi.org/10.31223/X5T77X},
   note    = {Pre-print available at EarthArXiv}
 }
 ```
