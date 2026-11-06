@@ -73,4 +73,12 @@ form, suitable for inspection, reproduction, and extension.
 
 ## Suggested citation
 
-If you use this code, please cite the accompanying manuscript once available.
+If you use geoFib code, please cite the following reference.
+
+@article{cammarasana2026geofib,
+  author  = {Cammarasana, Simone and Miola, Marianna},
+  title   = {A Fibonacci-Like Propagation Graph for Infiltration and Internal Erosion in Heterogeneous Layered Soils},
+  year    = {2026},
+  doi     = {10.31223/X5T77X},
+  note    = {Pre-print available at EarthArXiv}
+}
